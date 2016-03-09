@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7701" systemVersion="14C1510" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="DSE" representedClassName="DSE" syncable="YES">
+        <attribute name="accountname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="application" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="area" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cellnumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="district" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="financier" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lob" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="panchayat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pincode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ppl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sourceofcontact" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="state" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="taluka" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DSM" representedClassName="DSM" syncable="YES">
+        <attribute name="accountname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="application" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="area" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cellnumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="district" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="financier" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lob" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="panchayat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pincode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ppl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sourceofcontact" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="state" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="taluka" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="DSE" positionX="-63" positionY="-18" width="128" height="315"/>
+        <element name="DSM" positionX="-54" positionY="126" width="128" height="315"/>
+    </elements>
+</model>
